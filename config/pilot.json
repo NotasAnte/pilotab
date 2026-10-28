@@ -1,0 +1,23 @@
+{
+  "upstream": {
+    "command": "../bin/chrome-devtools-mcp.sh",
+    "args": [
+      "--config",
+      "chrome-devtools.json"
+    ]
+  },
+  "tabs": "own",
+  "allowHosts": [
+    "*"
+  ],
+  "confirmHosts": [
+    "*.google.com",
+    "github.com",
+    "*.github.com",
+    "dash.cloudflare.com",
+    "*.console.aws.amazon.com",
+    "app.slack.com"
+  ],
+  "grantMinutes": 10,
+  "auditLog": "~/.local/state/pilotab/audit.jsonl"
+}

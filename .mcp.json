@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "pilotab": {
+            "command": "bin/pilotab.sh",
+            "args": []
+        }
+    }
+}

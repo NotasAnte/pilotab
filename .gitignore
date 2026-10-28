@@ -1,0 +1,4 @@
+node_modules/
+bin/.build/
+config/pilot.local.json
+.claude/settings.local.json

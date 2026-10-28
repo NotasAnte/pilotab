@@ -1,0 +1,10 @@
+{
+  "autoConnect": true,
+  "usageStatistics": false,
+  "performanceCrux": false,
+  "fileNavigations": false,
+  "categoryPerformance": false,
+  "categoryMemory": false,
+  "categoryEmulation": false,
+  "redactNetworkHeaders": true
+}
