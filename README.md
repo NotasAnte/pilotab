@@ -34,7 +34,7 @@ refused, never waved through.
 ## Setup
 
 ```sh
-git clone https://github.com/freepik-company/pilotab
+git clone https://github.com/NotasAnte/pilotab
 cd pilotab
 make install
 ```
