@@ -1,5 +1,4 @@
 pilotab
-Copyright 2026 Magnific S.L.U.
 
 This product depends on chrome-devtools-mcp (Apache-2.0, Google LLC)
 and the Model Context Protocol Go SDK (Apache-2.0 / MIT).
